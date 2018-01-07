@@ -2,6 +2,7 @@
 ### Author: Yunbo Chen
 
 ## How to Run:
+Database is in the "newsdata.sql.zip" file. Extract it and run it to create the database.
 After going into the directory of the files, simply run `python NewsReport.py` as indicated in the first line of ` Example_Output.txt`. 
 
 ## Design Prospect
